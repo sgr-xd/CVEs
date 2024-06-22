@@ -1,4 +1,4 @@
-# CVE 2024-6212
+# XSS in Service Provider Management System using PHP and MySQL
 
 **Researcher Name:** Guru Raghav Saravanan
 
